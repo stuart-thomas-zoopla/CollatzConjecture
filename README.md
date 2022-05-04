@@ -10,6 +10,6 @@ In all known cases, this will eventually return to 1 and enter the 4-2-1 loop. T
 
 [Wikipedia](https://en.wikipedia.org/wiki/Collatz_conjecture) covers the topic in far more detail.
 
-This console app was written as a bit of fun and to kill a few minutes while on Holiday during lockdown and then I decided I'd put it on a raspberryPi and leave it to run and output its findings on a simple website.  I'll add the link here when I get round to doing that part.
+This console app was written as a bit of fun and to kill a few minutes while on Holiday during lockdown.
 
 This console app was inspired by this [Youtube Video](https://www.youtube.com/watch?v=094y1Z2wpJg) and as according to the video we knew for certain numbers smaller than 2^68 complied with the rules of the conjecture, I started with the first number being 2^68 and go up 1 at a time from there.
