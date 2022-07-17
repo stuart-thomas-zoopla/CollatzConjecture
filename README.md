@@ -13,3 +13,5 @@ In all known cases, this will eventually return to 1 and enter the 4-2-1 loop. T
 This console app was written as a bit of fun and to kill a few minutes while on Holiday during lockdown.
 
 This console app was inspired by this [Youtube Video](https://www.youtube.com/watch?v=094y1Z2wpJg) and as according to the video we knew for certain numbers smaller than 2^68 complied with the rules of the conjecture, I started with the first number being 2^68 and go up 1 at a time from there.
+
+Word of warning, don't run this for a long time on anything that can be damaged by a large number of writes.  I had it running on a raspberry pi four a couple months and it killed the SD card after a few million writes.
